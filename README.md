@@ -1,4 +1,4 @@
-
+# Simple Mask
 
 **A lightweight tool to mask parts of images directly in the Editor. Works on Mobile & Web!**
 
@@ -25,9 +25,9 @@ It is **non-destructive**: it never modifies your original image file. Instead, 
 
 ---
 ### 👋 A Note from the Author
+I am a Data Engineer with a passion for learning. I love exploring new fields and solving interesting problems. I build these tools to help others make the learning process easier.
 
-This is my very first add-on! I built it to make creating cards faster and cleaner.
-If you use and like the tool, please consider leaving a **[👍 Thumbs Up](https://ankiweb.net/shared/review/466018038)**. It really helps others find the add-on!
+This is my very first add-on! If you use and like the tool, please consider leaving a **[👍 Thumbs Up](https://ankiweb.net/shared/review/466018038)**. It really helps others find the add-on!
 
 If you find it helpful and want to support future development, consider buying me a coffee:
 
